@@ -22,12 +22,12 @@ This is a basic boilerplate application that demonstrates the use of Tkinter for
 1. Clone this repository: 
 
 bash
-git clone [your-repository-url]
+git clone https://github.com/TenseiCho/ContentEngagementMachine
 
 2. Navigate to the project directory:
 
 bash
-cd [project-directory]
+cd https://github.com/TenseiCho/ContentEngagementMachine
 
 3. Run the application:
 
