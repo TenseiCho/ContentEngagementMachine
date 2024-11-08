@@ -1,0 +1,4 @@
+# Requirements for ContentEngagementMachine
+
+# Specify the Python version
+python>=3.6 

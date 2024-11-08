@@ -20,20 +20,30 @@ This is a basic boilerplate application that demonstrates the use of Tkinter for
 ## Installation
 
 1. Clone this repository: 
-
-bash
-git clone https://github.com/TenseiCho/ContentEngagementMachine
+   ```bash
+   git clone https://github.com/TenseiCho/ContentEngagementMachine   ```
 
 2. Navigate to the project directory:
+   ```bash
+   cd ContentEngagementMachine   ```
 
-bash
-cd https://github.com/TenseiCho/ContentEngagementMachine
+3. (Optional) Create a virtual environment:
+   ```bash
+   python -m venv venv   ```
 
-3. Run the application:
+   Activate the virtual environment:
+   - On Windows:     ```bash
+     venv\Scripts\activate     ```
+   - On macOS/Linux:     ```bash
+     source venv/bin/activate     ```
 
-bash
-python main.py
+4. Install the required dependencies:
+   ```bash
+   pip install -r requirements.txt   ```
 
+5. Run the application:
+   ```bash
+   python main.py   ```
 
 ## Usage
 
